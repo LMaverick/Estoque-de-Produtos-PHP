@@ -1,6 +1,6 @@
-# CRUD - PHP (Estoque de produtos)
+# Estoque de Produtos PHP
 
-O CRUD-PHP (Estoque de produtos) é um projeto desenvolvido para controle de estoque de empresas que trabalham com produtos, os usuários podem se cadastrar no sistema, cadastrar seus produtos, categorias e seus fornecedores. Para ter um controle básico de seu estoque de produtos.
+O Estoque de Produtos PHP é um projeto desenvolvido para controle de estoque de empresas que trabalham com produtos, os usuários podem se cadastrar no sistema, cadastrar seus produtos, categorias e seus fornecedores. Para ter um controle básico de seu estoque de produtos.
 
 
 
@@ -9,7 +9,7 @@ Midian Karen Oliveira Neri RA: 923106600
 
 Kauê de Sousa Lima RA: 923110268
 
-Lucas Matheus manco da Silva RA: 923106314
+Lucas Matheus Manco da Silva RA: 923106314
 
 Giovanni de Souza Ferreira RA: 923109851
 
@@ -18,7 +18,9 @@ Railan Lima Fontana RA: 923110589
 Jhenifer Aparecida Calvi Feitoza RA: 3623100107
 
 
-## Features
+## O que o Projeto possibilita fazer?
+
+Quanto a isso não precisa se preocupar, fizemos questão de fazer o básico bem feito, contamos com:
 
 - Cadastro de produtos, categorias e fornecedores;
 - Listagem de produtos, categorias e fornecedores;
@@ -28,7 +30,7 @@ Jhenifer Aparecida Calvi Feitoza RA: 3623100107
 - Filtro de pesquisa de produtos por categorias, fornecedores, nome, número e quantidade;
 
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas no Projeto
 Para o desenvolvimento do projeto, foram ulitizados os seguintes recursos:
 * [PHP](https://www.php.net/)
 * [JavaScript](https://www.javascript.com/)
@@ -41,11 +43,13 @@ Para o desenvolvimento do projeto, foram ulitizados os seguintes recursos:
 
 ## Desenvolvimento
 
-* **Website**: Construído utilizando PHP nativo, sem o usu de framework.
+* **Website**: Construído utilizando PHP nativo, sem o uso de framework.
 
 ## Instalação
 
-* Para executar esse repositório baixe-o para sua maquina ou de um `Git Clone`;
+É importante seguir o passo a passo para o sistema funcionar.
+
+* Para executar esse repositório baixe-o para sua máquina ou de um `Git Clone`;
 
 * Instale e inicie o XAMPP (Se estiver utilizando Windows) ou o LAMP (se estiver usando Linux);
 
