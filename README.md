@@ -4,7 +4,18 @@ O CRUD-PHP (Estoque de produtos) é um projeto desenvolvido para controle de est
 
 
 
-## Screenshots
+## Integrantes
+Midian Karen Oliveira Neri RA: 923106600
+
+Kauê de Sousa Lima RA: 923110268
+
+Lucas Matheus manco da Silva RA: 923106314
+
+Giovanni de Souza Ferreira RA: 923109851
+
+Railan Lima Fontana RA: 923110589
+
+Jhenifer Aparecida Calvi Feitoza RA: 3623100107
 
 
 ## Features
